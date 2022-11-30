@@ -1,3 +1,20 @@
+# This is a e-commerce project created with [Next.js](https://nextjs.org/) 
+- e-commrce website created with next.js and React
+- make payment with stripe 
+- using sanity cms for backend 
+- using css only for styleing 
+
+## DEMO
+-  https://next-e-commerce-ahmed.netlify.app/
+
+## VIEW 
+![5](https://user-images.githubusercontent.com/89364017/204854247-c2dd5224-3a7a-4ff8-8d97-9929fc760bae.png)
+![1](https://user-images.githubusercontent.com/89364017/204854149-5d6370dd-60ae-41cb-9284-57233441b841.png)
+![2](https://user-images.githubusercontent.com/89364017/204854175-60dc5e88-1f83-4b57-84c3-48f659b92aa2.png)
+![3](https://user-images.githubusercontent.com/89364017/204854182-632ce344-f7ea-4a08-82d1-eb47fe84c654.png)
+![4](https://user-images.githubusercontent.com/89364017/204854198-84803cf3-0dd3-48bf-857e-0cb30bf1ff62.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
