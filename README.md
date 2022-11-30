@@ -1,5 +1,5 @@
-# This is a e-commerce project created with [Next.js](https://nextjs.org/) 
-- e-commrce website created with next.js and React
+# This is a e-commerce  project created with [Next.js](https://nextjs.org/) 
+- e-commerce  website created with next.js and React
 - make payment with stripe 
 - using sanity cms for backend 
 - using css only for styleing 
